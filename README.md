@@ -8,23 +8,23 @@ I am a current computer science student at the University of Texas at Austin. I 
 
 ## Tech Stack
 ### Languages
-**- Java | Python | C
-- TypeScript | Javascript | HTML | CSS
-- Bash**
+- **Java | Python | C**
+- **TypeScript | JavaScript | HTML | CSS**
+- **Bash**
 ### Data Science
-**- TensorFlow
-- pandas | NumPy
-- Matplotlib | seaborn**
+- **TensorFlow**
+- **pandas | NumPy**
+- **Matplotlib | seaborn**
 ### Frontend
-**- React | Node.js
-- Android Studio
-- Figma**
+- **React | Node.js**
+- **Android Studio**
+- **Figma**
 ### Backend
-**- Flask | SQLite**
+- **Flask | SQLite**
 ### Other Tools
-**- Git
-- AWS | Netlify
-- TeX**
+- **Git**
+- **AWS | Netlify**
+- **TeX**
 <!--
 **krisub/krisub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
