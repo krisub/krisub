@@ -9,7 +9,9 @@ I am a current computer science student at the University of Texas at Austin. I 
 ## Tech Stack
 ### Languages
 Java | Python | C
+
 TypeScript | Javascript | HTML | CSS
+
 Bash
 ### Data Science
 TensorFlow | pandas | seaborn | Matplotlib | NumPy
@@ -19,6 +21,7 @@ React | Node.js | Android Studio | Figma
 Flask | SQLite
 ### Other Tools
 Git
+
 AWS | Netlify
 
 <!--
