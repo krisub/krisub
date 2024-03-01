@@ -8,29 +8,18 @@ I am a current computer science student at the University of Texas at Austin. I 
 
 ## Tech Stack
 ### Languages
-- Java
-- Python
-- C
-- TypeScript, Javascript
-- HTML
-- Bash
+Java | Python | C
+TypeScript | Javascript | HTML | CSS
+Bash
 ### Data Science
-- TensorFlow
-- pandas
-- Matplotlib
-- NumPy
+TensorFlow | pandas | seaborn | Matplotlib | NumPy
 ### Frontend
-- React
-- Node.js
-- Android Studio
-- Figma
+React | Node.js | Android Studio | Figma
 ### Backend
-- Flask
-- SQLite
+Flask | SQLite
 ### Other Tools
-- Git
-- AWS
-- Netlify
+Git
+AWS | Netlify
 
 <!--
 **krisub/krisub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
